@@ -2,6 +2,9 @@ package com.sonic.iterator;
 
 /**
  * Create by Sonic on 2018/9/26
+ * Iterator模式将遍历和实现相分离，
+ * 无论BookShelf如何变化，比如替换成List，
+ * 都不会影响到BookShelfIterator和IteratorMain
  */
 public class IteratorMain {
     public static void main(String[] args) {
