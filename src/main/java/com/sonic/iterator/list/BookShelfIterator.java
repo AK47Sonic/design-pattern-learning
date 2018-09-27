@@ -1,10 +1,9 @@
-package com.sonic.iterator;
+package com.sonic.iterator.list;
 
 /**
- * Create by Sonic on 2018/9/26
+ * Create by Sonic on 2018/9/27
  */
 public class BookShelfIterator implements Iterator {
-
     private BookShelf bookShelf;
     private int index;
 
@@ -15,11 +14,10 @@ public class BookShelfIterator implements Iterator {
 
     @Override
     public boolean hasNext() {
-        if (index < bookShelf.getLength()) {
+        if (index < this.bookShelf.getLength()) {
             return true;
-        } else {
-            return false;
         }
+        return false;
     }
 
     @Override

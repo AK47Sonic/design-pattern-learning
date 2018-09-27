@@ -1,7 +1,7 @@
-package com.sonic.iterator;
+package com.sonic.iterator.list;
 
 /**
- * Create by Sonic on 2018/9/26
+ * Create by Sonic on 2018/9/27
  */
 public class Book {
     private String name;

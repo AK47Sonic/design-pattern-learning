@@ -1,4 +1,4 @@
-package com.sonic.iterator;
+package com.sonic.iterator.array;
 
 /**
  * Create by Sonic on 2018/9/26
@@ -6,7 +6,7 @@ package com.sonic.iterator;
  * 无论BookShelf如何变化，比如替换成List，
  * 都不会影响到BookShelfIterator和IteratorMain
  */
-public class IteratorMain {
+public class IteratorArrayMain {
     public static void main(String[] args) {
         BookShelf bookShelf = new BookShelf(4);
         bookShelf.appendBook(new Book("A"));
