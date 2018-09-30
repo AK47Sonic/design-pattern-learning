@@ -5,3 +5,4 @@
 - Template Method
 - Factory Method
 - Singleton
+- Prototype
