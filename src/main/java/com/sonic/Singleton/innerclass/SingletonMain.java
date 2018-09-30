@@ -1,7 +1,5 @@
 package com.sonic.Singleton.innerclass;
 
-import com.sonic.Singleton.dcl.DclSingleton;
-
 /**
  * Create by Sonic on 2018/9/30
  */
