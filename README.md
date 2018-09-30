@@ -4,3 +4,4 @@
 - Adapter
 - Template Method
 - Factory Method
+- Singleton
