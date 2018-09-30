@@ -1,4 +1,4 @@
-package com.sonic.Singleton.innerclass;
+package com.sonic.singleton.innerclass;
 
 /**
  * Create by Sonic on 2018/9/30

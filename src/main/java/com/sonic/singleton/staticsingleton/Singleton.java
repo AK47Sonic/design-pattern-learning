@@ -1,4 +1,4 @@
-package com.sonic.Singleton.staticsingleton;
+package com.sonic.singleton.staticsingleton;
 
 /**
  * Create by Sonic on 2018/9/30
