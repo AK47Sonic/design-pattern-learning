@@ -6,3 +6,5 @@
 - Factory Method
 - Singleton
 - Prototype
+- Builder
+
